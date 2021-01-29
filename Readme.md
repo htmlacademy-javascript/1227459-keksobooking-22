@@ -1,6 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Александр Тришин](https://up.htmlacademy.ru/javascript/22/user/1227459).
+* Наставник: [Дмитрий Мирошниченко](https://htmlacademy.ru/profile/id591417).
 
 
 ---
